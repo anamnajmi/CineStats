@@ -34,7 +34,7 @@ A Streamlit-based dashboard application for visualizing and exploring cinema sta
 
 ## Demo / Screenshots
 
-*(Add screenshots or GIFs here showing the interface, charts, etc.)*
+
 
 ---
 
